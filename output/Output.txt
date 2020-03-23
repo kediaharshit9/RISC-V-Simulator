@@ -1,0 +1,3 @@
+Number of cycles: 17
+Number of Data Stalls: 5
+Number of control stalls: 2

@@ -1,0 +1,49 @@
+33
+15
+0
+6
+11
+2.33333
+40
+S1 : RAW
+S2 : RAW
+S3 : RAW
+S4 : Branch
+S5 : Branch
+S6 : RAW
+S7 : RAW
+S8 : RAW
+S9 : Branch
+S10 : Branch
+S11 : Branch
+S12 : Branch
+S13 : RAW
+S14 : RAW
+S15 : RAW
+S16 : Branch
+S17 : Branch
+S18 : Branch
+S19 : Branch
+S20 : RAW
+S21 : RAW
+S22 : RAW
+S23 : Branch
+S24 : Branch
+S25 : Branch
+S26 : Branch
+S27 : RAW
+S28 : RAW
+S29 : RAW
+S30 : Branch
+S31 : Branch
+S32 : Branch
+S33 : Branch
+S34 : RAW
+S35 : RAW
+S36 : RAW
+S37 : Branch
+S38 : Branch
+S39 : Branch
+S40 : Branch
+RAW: 18
+Control: 22
